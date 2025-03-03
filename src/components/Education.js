@@ -8,12 +8,13 @@ const Education = () => {
         <h3>Douglas College, Canada</h3>
         <p className="degree">
           Post Baccalaureate in Computer Information Systems, Data Analytics.
-          2024
+          2025
         </p>
         <p>
           <strong>🏆Awards:</strong>
         </p>
         <ul>
+          <li>Gold cord award</li>
           <li>Dean's List: 2 terms</li>
           <li>Honour roll: 3 terms</li>
         </ul>
