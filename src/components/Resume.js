@@ -5,7 +5,7 @@ const Resume = () => {
     <section id="resume" className="resume">
       <h2>Resume</h2>
       <a
-        href="/assets/Juan Camilo Restrepo.pdf"
+        href="/assets/Jake_s_Resume_Data_Engineering.pdf"
         download
         className="download-btn"
       >
